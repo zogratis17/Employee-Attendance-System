@@ -2,6 +2,12 @@
 
 A full-stack MERN application for managing employee attendance.
 
+## 👤 Developer Information
+
+- **Name**: Hari Prasath N T
+- **College**: SNS College of Engineering, Coimbatore
+- **Contact**: 9486312738
+
 ## Features
 
 ### Employee
