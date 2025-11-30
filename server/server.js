@@ -17,6 +17,10 @@ if (process.env.NODE_ENV === 'development') {
 }
 
 // Routes
+app.get('/', (req, res) => {
+  res.json({ message: 'API is running...', status: 'OK' });
+});
+
 app.use('/api/auth', require('./routes/authRoutes'));
 app.use('/api/attendance', require('./routes/attendanceRoutes'));
 app.use('/api/dashboard', require('./routes/dashboardRoutes'));

@@ -12,7 +12,8 @@ A full-stack MERN application for managing employee attendance.
 
 ### Employee
 - **Register/Login**: Secure authentication with JWT.
-- **Mark Attendance**: Check-in and Check-out functionality with automatic status detection.
+- **Mark Attendance**: Check-in and Check-out functionality withGET
+	https://employee-attendance-system-f2k1lbcel.vercel.app/register automatic status detection.
 - **Dashboard**: View today's status, monthly summary (Present, Absent, Late, Total Hours).
 - **Recent Attendance**: See last 7 days of attendance with times and status.
 - **Profile Page**: View personal information and monthly statistics.
